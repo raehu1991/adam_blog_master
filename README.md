@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 16dd7d91a6b57e1d7af51578e6b340687f3b4355
 # Adam Blog is a minimal clear theme for Jekyll
 
 ![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
@@ -35,3 +39,10 @@ GNU General Public License v3.0
 
 <p>If you like the themes that I create you can become my sponsor on <a href="https://www.patreon.com/artemsheludko" target="_blank">Patreon</a>.
 <p align="center"><b>Thank you for your support ❤️</b></p>
+<<<<<<< HEAD
+=======
+=======
+# raehu1991.github.io
+My first blog.
+>>>>>>> 9708d4c4ba28eaf758da6a0607c3bf649e6d66e2
+>>>>>>> 16dd7d91a6b57e1d7af51578e6b340687f3b4355

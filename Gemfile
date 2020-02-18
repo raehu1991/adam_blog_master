@@ -29,4 +29,7 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem 'jekyll-paginate', group: :jekyll_plugins
+<<<<<<< HEAD
 
+=======
+>>>>>>> 16dd7d91a6b57e1d7af51578e6b340687f3b4355
